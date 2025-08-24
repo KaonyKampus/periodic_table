@@ -54,7 +54,6 @@ body {
   z-index: 1;
 }
 
-/* Hover zoom */
 .element_chart_no_metals:hover,
 .element_chart_alkali_metals:hover,
 .element_chart_alkali_earth_metals:hover,
@@ -72,7 +71,7 @@ body {
   z-index: 10;
 }
 
-/* Colores específicos */
+
 .element_chart_no_metals {
   background-color: #66ff66;
 }
